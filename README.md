@@ -66,7 +66,7 @@
                 <h2> BIG DREAM </h2>
                 <h4> Becoming a web developer. </h4>
                 <p> I already learned basic HTML and CSS.I can create a simple website.I also know the fundamentals of <em> Python. </em> My goal is to make a simple game for my brother so I can get him interested in programming. <strong> I really need a partner! </strong> </p>
-                <a class="primary-btn" href="#"> Email:Shamima20052015@gmail.com </a>
+                <a class="primary-btn" href="#"> Email:shamima20052015@gmail.com </a>
             </div>
         </section>
         <section class="container experiences"> 
